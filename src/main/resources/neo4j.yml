@@ -1,0 +1,8 @@
+#spring:
+#  data:
+#    neo4j:
+#      url: http://localhost:7474
+#      username: neo4j
+#      password: 132928
+#  main:
+#    allow-bean-definition-overriding: true
